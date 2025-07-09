@@ -1,12 +1,5 @@
 # playwrightSuaceLab
 
-Perfect — here’s a version of the `README.md` tailored for **JavaScript** (Playwright with JS, not TypeScript).
-It uses JavaScript file names and slightly simpler references.
-
----
-
-# 📚 Project Name
-
 This project uses [Playwright](https://playwright.dev/) for end-to-end testing, written in **JavaScript**.
 
 ## 🚀 Getting Started
