@@ -9,8 +9,8 @@ This project uses [Playwright](https://playwright.dev/) for end-to-end testing, 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/raisumit04/playwrightdemo.git
+cd playwrightdemo
 npm install
 ```
 
